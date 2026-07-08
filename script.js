@@ -7,7 +7,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
   });
 });
-//added a comment new one
+//added a comment new one o
 
 document.getElementById('contact-form').addEventListener('submit', function (e) {
   e.preventDefault();
